@@ -6,6 +6,6 @@ argparse
 pylidc
 numpy
 pydicom
-highdicom
+
 lidc_conversion_utils
 
