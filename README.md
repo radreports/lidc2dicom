@@ -1,4 +1,7 @@
 # About
+$ pip install git+https://github.com/taznux/TCIAExplorer.git
+$ python3 download_datasets.py
+
 
 This repository contains the script used to convert the TCIA
 [LIDC-IDRI](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI)
