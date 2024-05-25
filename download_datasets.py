@@ -68,5 +68,5 @@ def download_all_images(collection, location):
     return 0
 
 if __name__ == "__main__":
-    download_all_images('SPIE-AAPM Lung CT Challenge', 'DATA/LUNGx')
+    # download_all_images('SPIE-AAPM Lung CT Challenge', 'DATA/LUNGx')
     download_all_images('LIDC-IDRI', 'DATA/LIDC-IDRI')
